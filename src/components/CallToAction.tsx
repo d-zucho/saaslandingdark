@@ -29,7 +29,7 @@ export const CallToAction = () => {
           <input
             type='email'
             placeholder='your@email.com '
-            className='h-12 bg-white/20 rounded-lg px-5 flex-1 font-medium placeholder:text-[#9CA3AF]'
+            className='h-12 bg-white/20 rounded-lg px-5 sm:flex-1 font-medium placeholder:text-[#9CA3AF]'
           />
           <button
             type='submit'
