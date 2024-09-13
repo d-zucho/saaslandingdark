@@ -1,8 +1,8 @@
 node_modules
 node_modules
 
+.next
 
-node_modules
 
 # environment variables
 .env
@@ -10,5 +10,5 @@ node_modules
 .env.development.local
 .env.test.local
 .env.production.local
-
-.next
+*.env
+.*.env
